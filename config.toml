@@ -1,6 +1,6 @@
 baseURL = "https://abhinavbabu.in/blog/"
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Blogs of Abhinav Babu'
 
 theme = "PaperMod"
 

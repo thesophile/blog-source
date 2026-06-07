@@ -3,9 +3,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://abhinavbabu.in/blog/categories/</loc>
-  </url><url>
     <loc>https://abhinavbabu.in/blog/</loc>
+  </url><url>
+    <loc>https://abhinavbabu.in/blog/categories/</loc>
   </url><url>
     <loc>https://abhinavbabu.in/blog/posts/</loc>
   </url><url>
