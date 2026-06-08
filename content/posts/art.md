@@ -51,7 +51,7 @@ Same with  Movies[^movies], paintings and every Art.
 
 Art doesn't have to make you feel good or provoke thought or give you a message - sometimes creators force to put these in their works and that makes it less of an Art.
 
-.....
+......
 
 Anyway, thats just my personal definition of Art and I judge Art with this internal model.
 
