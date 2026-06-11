@@ -2,17 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Blogs of Abhinav Babu</title>
-    <link>https://abhinavbabu.in/blogs/posts/</link>
+    <link>http://localhost:1313/blogs/posts/</link>
     <description>Recent content in Posts on Blogs of Abhinav Babu</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 07 Jun 2026 16:13:39 +0530</lastBuildDate>
-    <atom:link href="https://abhinavbabu.in/blogs/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 11 Jun 2026 15:09:57 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/blogs/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>God</title>
+      <link>http://localhost:1313/blogs/god/</link>
+      <pubDate>Thu, 11 Jun 2026 15:09:57 +0530</pubDate>
+      <guid>http://localhost:1313/blogs/god/</guid>
+      <description>&lt;p&gt;&amp;ldquo;GOD&amp;rdquo; has a lot of meanings. For some it is an omniscient, omnipotent being with personal characteristics like intelligence, kindness and intention, That created the Universe.
+For others, it is an invisible force all around us, but they still mean that it has some humanlike characters, like intention, Strength, Beauty and intelligence, some think this &amp;ldquo;force&amp;rdquo; can listen to our thoughts and prayers and change the mental and physical realms to help or punish you. On the extreme, some believe God is literally a human living on earth that they can worship.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Art, Literature and Meaning </title>
-      <link>https://abhinavbabu.in/blogs/art-literature-and-meaning/</link>
+      <link>http://localhost:1313/blogs/art-literature-and-meaning/</link>
       <pubDate>Sun, 07 Jun 2026 16:13:39 +0530</pubDate>
-      <guid>https://abhinavbabu.in/blogs/art-literature-and-meaning/</guid>
+      <guid>http://localhost:1313/blogs/art-literature-and-meaning/</guid>
       <description>&lt;p&gt;What is poetry?
 When I was little, I thought it was just a little dance with pretty poetic words - Similies, Metaphors, beutiful descriptions&amp;hellip;
 In a sense thats true, It is poetic to compare grief with a gloomy sky. But comparing object A to Object B is not the part which makes it a poem. Lets look at some examples of poetic phrases/sentence:&lt;/p&gt;
